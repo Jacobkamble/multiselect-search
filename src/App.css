@@ -1,0 +1,15 @@
+.suggestionBox{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin: 5px 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 30%;
+    cursor: pointer;
+}
+
+*{
+    text-decoration: none;
+    list-style: none;
+}
